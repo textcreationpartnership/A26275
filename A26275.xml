@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short description of the true ministers and the false how they differ in their call, ministry, doctrine, and fruits that any that are desirous may know the one from the other : also, something concerning the apostacy ... which was in the Apostles dayes ... : something further concerning the true ministers of Jesus / testified by one that hath been a true witness of all that he has here written, J. Aynsloe.</title>
+            <author>Aynsloe, John, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26275</idno>
+            <idno type="STC">Wing A4297</idno>
+            <idno type="STC">ESTC R27199</idno>
+            <idno type="EEBO-CITATION">09692163</idno>
+            <idno type="OCLC">ocm 09692163</idno>
+            <idno type="VID">44015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short description of the true ministers and the false how they differ in their call, ministry, doctrine, and fruits that any that are desirous may know the one from the other : also, something concerning the apostacy ... which was in the Apostles dayes ... : something further concerning the true ministers of Jesus / testified by one that hath been a true witness of all that he has here written, J. Aynsloe.</title>
+                  <author>Aynsloe, John, d. 1693.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Pastoral theology --  Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44015:1"/>
+            <pb facs="tcp:44015:1" rendition="simple:additions"/>
+            <p>A Short DESCRIPTION OF THE True Miniſters and the Falſe How they Differ in their Call, Miniſtry, Doctrine and Fruits; that any that are de<g ref="char:EOLhyphen"/>ſirous may know the one from the other.</p>
+            <p>Alſo, Something concerning the Apoſtacy, and Departing from the Faith and Power of God, which was in the Apoſtles dayes.</p>
+            <p>How the Woman fled into the Wilderneſs, where ſhe had a Place prepared her of GOD: The Falſe Church and Antichriſt got up in Her ſtead.</p>
+            <p>The Woman's Return Witneſſed, with the Fall of Anti-chriſt and the Falſe Church.</p>
+            <p>Something further concerning the True Miniſters of Jeſus, Teſtified by One that hath been a True Witneſs of all that he has here written.</p>
+            <p>
+               <hi>J. Aynſloe.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Luke 9.1, 2.</hi>
+               </bibl>
+               <p>He called his Twelve Diſciples together, and <hi>gave</hi> them <hi>Power</hi> and Authority over all Devils; and he <hi>ſent</hi> them to preach the Kingdom of God, &amp;c. <hi>[But of the Falſe Prophets its ſaid]</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Jer. 23.21.</hi>
+               </bibl>
+               <p>I have <hi>not ſent</hi> theſe Prophets, yet they Run; I have <hi>not</hi> ſpoken to them, yet they Propheſied.</p>
+            </q>
+            <p>Printed in the Year, 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44015:2"/>
+            <pb n="3" facs="tcp:44015:2"/>
+            <head>AN EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>FRIEND,</salute>
+            </opener>
+            <p>LEt it not ſeem a ſtrange thing to thee, nor a ſmall thing in thine Eye, that God hath appeared in theſe latter dayes in his large Loving-kindneſs unto the Sons of Men, to diſcover again that which hath been hid from Ages and Generations paſt, by reaſon of the long and dark Night of Apoſtacy, which did cover all as a Vail over the Heart, ſince the Apoſtles dayes; in which the true Church hath been in the Wilderneſs, and the true Miniſters not known; and the falſe Church and falſe Miniſters got up in their place, and Antichriſt hath been worſhipped, and the Beaſt and falſe Prophet born rule; and all that time the Lord was as a Stranger in the Earth, and his Appearance by his Light and Spirit was known but to a very Few; ſo that it was taken for granted by moſt people, <hi>That Revelation was Ceaſed; and that no other Knowledge of God was to be looked for, then from the Scriptures;</hi> being Ignorant of him of whom the Scriptures teſtified <hi>Chriſt Jeſus, the true Light, that ligh<g ref="char:EOLhyphen"/>teth every man that comes into the world, that all through the Light might believe:</hi> This <hi>Key of Knowledge</hi> being vailed from the people, and <hi>Humane Learning</hi> and <hi>Tradition</hi> inſtead thereof hath been admired and followed by the moſt of peo<g ref="char:EOLhyphen"/>ple (in the Night of Apoſtacy) <hi>as the Only Way to the Know<g ref="char:EOLhyphen"/>ledge
+<pb n="4" facs="tcp:44015:3"/>of God,</hi> which is the Cauſe why people are ſo ignorant of God and Spiritual Worſhip; <hi>Crying up Lifeleſs Forms for Religion, and the Inventions and Traditions of Men for True Worſhip;</hi> withſtanding (as much as in them lies) <hi>the Powerful Appearance of the Lord,</hi> in this the Day of his Power, wherein he hath appeared to bring every thing into its right courſe again; and hath raiſed up (by his Power) Miniſters and Witneſſes again, as in the Apoſtles dayes, induing them with Power from on High, <hi>That they may be Inſtruments in his Hand to turn many from Darkneſs to his Bleſſed Light, that ſhines in the Heart, to give the Knowledge of the Glory of God in the Face of Jeſus Chriſt:</hi> And many are gathered unto the Lord, and into the Worſhip of the Spirit, and are taught of God, and bear their Teſtimony to the Truth, as it is in Jeſus; and God is ſtill adding to the Number of his Choſen People, notwithſtanding all Oppoſition, <hi>that the Excellency of the Power</hi> (by which he carrieth on his Work) <hi>may be ſeen to be of God, and not of Man;</hi> to him only be the Glory and Honour forevermore.</p>
+            <closer>
+               <signed>J. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="description">
+            <pb n="5" facs="tcp:44015:3"/>
+            <head>A Short Deſcription of the True Miniſters, and the Falſe; how they differ in their Call, Miniſtry, Doctrine and Fruits; that any, who are deſirous, may know the one from the other, <hi>&amp;c.</hi>
+            </head>
+            <p>TRue Miniſters are called of God, as the Apoſtles were: and God hath committed to them now the Word of Reconciliation, as the Apoſtles had; and they are now ſent of God, To preach Glad-tidings to the Poor, and Peace and Good-will unto men; To Proclaim the Day of the Lord to all that ſit in Darkneſs, and under the ſhadow of Death; Preaching to the Spirits in Priſon, that the Priſon-Doors may be opened, and the Priſoner of Hope come forth out of the Priſon-Houſe, that the Clouds of Darkneſs may fall of, and the Bonds of Iniquity may be broken; that many may be turned from Darkneſs to Light, from Satan's power to God: And freely they have received, and freely they miniſter; coveting no man's Silver, or Gold nor Apparrel, no more then the Apoſtles did. And they preach Chriſt Jeſus, not themſelves; but the ſame Jeſus that was Crucified without the Gates of <hi>Jeruſalem,</hi> that Roſe again the Third Day, and Aſcended up into Glory, and is at the Right-Hand of God, far above all Principalities and Powers, according as the Scriptures declare.</p>
+            <p>And they preach him as they have received him; for they did not know him by the reading of the Scriptures, no more then <hi>Paul</hi> did by reading of the Law; but as he is revealed in them: And their Eyes do ſee, and their Ears do hear, and their Hands do handle the Good Word of God, which they declare unto others: And God hath given them a Good Underſtan<g ref="char:EOLhyphen"/>ding, that they know him that is True, even Jeſus Chriſt,
+<pb n="6" facs="tcp:44015:4"/>whom God hath ſent: And they have not laboured in vain, as thoſe who have beat the Air; but have been Inſtruments in God's Hands, to turn many from the Evil of their Wayes, to walk in the Light of the Lord; and are brought to know and dwell in that City, even the New <hi>Jeruſalem,</hi> which is from above, that has no need of the light of the Sun by Day, nor of the Moon by Night, but the Lamb is the Light thereof.</p>
+            <p>And the true Miniſters need no Humane Authority, to Au<g ref="char:EOLhyphen"/>thorize their Miniſtry; for they have a Witneſs in every man's Conſcience: Neither are their Mouthes ſtopped with the Com<g ref="char:EOLhyphen"/>mands of men, neither are they afraid to appear for God in their publick Teſtimony, in preaching the Everlaſting Goſpel, though Laws of great Penalties be made againſt them; but rather are made willing to adventure all, whatever is dear and near unto them in this World, then to incur the Diſ<g ref="char:EOLhyphen"/>pleaſure of their Lord and Maſter, Jeſus Chriſt, or to bring the Blood of any upon them; for they Labour Night and Day with the Lord, in the Travel of their Spirits, that they may be clear of the Blood of all men; going from Country to Country as they are moved (with their lives in their hands) that they may preach the Everlaſting Goſpel to all that dwell up<g ref="char:EOLhyphen"/>on the Earth.</p>
+            <p>The Falſe Miniſters are ſuch as are brought up at <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> and are Seven Years ſtudying <hi>Philoſophy, &amp;c.</hi> and are made Ma<g ref="char:EOLhyphen"/>ſters of their Arts; and from Humane Learning is their Mini<g ref="char:EOLhyphen"/>ſtry; and for their Gain is their Call; and are only ſent of Man, being Ordained by Man, and then have Licence to preach. They are onely Miniſters of Traditions, and their own Conceptions on the Letter (not of the Spirit) having only a Form, but denying the Power; calling the Letter <hi>the Goſpel,</hi> and preferring the Letter before the Spirit, and putting it in the Spirit's place, calling it, <hi>the Word of God;</hi> ſaying, <hi>There is no other Way to cone to the Knowledge of God;</hi> ſo are boaſting of another man's Lines made ready to their hands: and are ſaying, <hi>Thus ſaith the Lord,</hi> when he never ſpake to them, as the Falſe Prophets did in the dayes of old; denying Revelation, or any Immediate Call from God, as the Apoſtles had, ſaying, <hi>There
+<pb n="7" facs="tcp:44015:4"/>is no ſuch thing to be looked for now; that was Extraordinary, and is Ceaſed.</hi>
+            </p>
+            <p>And are ſuch as are alwayes Teaching, and People never the better, bringing nothing to Perfection; ſaying, <hi>There is no Freedom from Sin on this ſide the Grave:</hi> And Denying the Light (that convinceth of Sin) to be ſufficient to lead to Life and Salvation; calling it, <hi>Natural and Inſufficient;</hi> like the Un<g ref="char:EOLhyphen"/>believing <hi>Jews,</hi> who ſaid, <hi>Is not this the Carpenter's Son?</hi>
+            </p>
+            <p>They ſay, <hi>That Sprinkling of Infants upon the Face is Baptiſm;</hi> ſetting up that in the place of the <hi>Baptiſm of the Spirit.</hi> They call Bread and Wine <hi>the Lord's Supper,</hi> being ignorant of the Bread of Life, and the Communion of Saints in the Sancti<g ref="char:EOLhyphen"/>fying Spirit. And thus much, in ſhort, concerning their <hi>Call, Miniſtry</hi> and <hi>Doctrine.</hi>
+            </p>
+            <p>Now I ſhall ſhew their <hi>Marks</hi> and <hi>Fruits,</hi> Chriſt ſaying, <hi>By their Fruits ye ſhall know them:</hi> They are ſuch as go in Long Robes, and have the Higheſt Place in the Synagogues, and are called of men <hi>Maſter,</hi> and have the Uppermoſt Rooms at Feaſts,<note place="margin">Matthew <hi>23.</hi> Jude's E<g ref="char:EOLhyphen"/>piſtle</note> and have men's Perſons in Admiration be<g ref="char:EOLhyphen"/>cauſe of Advantage.</p>
+            <p>They Preach for Hire, they have Gift and Rewards for their preaching, they can't afford it for Nothing having bought it for Money; they take Tythes, imi<g ref="char:EOLhyphen"/>tating the Prieſts in the Law; they Sue men at the Law that cannot put into their Mouthes; they caſt men into Priſon for the Exerciſe of their Conſciences; they ſtir up the Magiſtrates to Perſecution, ſaying, <hi>They muſt Defend their Goſpel, or elſe it will Fall;</hi> uſing the <hi>Carnal Weapon</hi> againſt the <hi>Outward Man.</hi>
+            </p>
+            <p>All which are contrary to the <hi>Scriptares of Truth,</hi> and <hi>Practices</hi> of the <hi>Miniſters of Chriſt,</hi> in former Ages, and in this Age: <hi>Their Weapons were not Carnal, but Spiritual, mighty through God, to the bringing down of the Strong Holds of the Man of Sin.</hi>
+            </p>
+            <p>They muſt have <hi>Letters Patent</hi> from the <hi>Biſhop,</hi> or ſome other Man, or Men, before they can or muſt Preach; and then they Read or Preach by the <hi>Hour-Glaſs,</hi> at a certain Place or Time, as they are ordered by Men.</p>
+            <p>They deſpiſe <hi>Prophecying;</hi> and if any are moved to go into the Place of their Worſhip, in the Time of their Worſhip, to ſpeak
+<pb n="8" facs="tcp:44015:5"/>in the Name of the Lord, they call that <hi>A Diſturbance;</hi> calling to the <hi>Officer</hi> or <hi>Magiſtrate, to take him or her away, and ſent to Priſon;</hi> allowing none to ſpeak but themſelves, contrary to the Orders of the Churches of Chriſt; <hi>who might all ſpeak one by one.</hi>
+            </p>
+            <p>They are <hi>Changeable, as the Powers of the Earth change;</hi> and are <hi>Silenc'd if Man commands them;</hi> and take away their <hi>Gain, their Go<g ref="char:EOLhyphen"/>ſpel ceaſeth;</hi> and it the <hi>Magiſtrate</hi> take away his <hi>Shoulder,</hi> and men were not <hi>Forced, few would put into their Mouthes.</hi>
+            </p>
+            <p>By theſe their <hi>Fruits, Marks, Doctrines, Miniſtry</hi> and <hi>Call,</hi> they may very eaſily be known who they are, by any that are deſirous to find them out: <hi>[For] the Light of the Lord is come and the Glory of the Lord is appeared, to diſcover every Falſe Way and Thing, and no<g ref="char:EOLhyphen"/>thing is hid from his All-ſeeing Eye; and he is making it known to thoſe that believe in his Light, and follow him in the Regeneration; for the Night is paſt unto many, and the Day of the Lord is broken forth, in which Perfect Freedom is known from the Yoak of Bondage, Sin being fled away as the Morning Cloud; and the Glory of the Lord doth reſt upon his Ta<g ref="char:EOLhyphen"/>bernacle; and the Sons of the Morning Rejoyce together; and Praiſe waits for the Lord in</hi> Sion. But this is hard to be believed by moſt of the Sons of men; Night having been their Habitation, and Darknes over them ſo long, that they look not for any other ſtate, willingly contented in that in which they are, in a <hi>Receiving</hi> of things they preach by a Report of others; ſome believing, <hi>That there is a God, becauſe the Scriptures ſay ſo,</hi> having no deſire of fur<g ref="char:EOLhyphen"/>ther Knowledg or Fellowſhip with Him; and that is the Ground or In-let to all Liberty in Sin and Falſe Worſhipping, every man's Way ſeeming Right in his own Eyes, he being (or at leaſt, would be) ſole Judge in all things that paſs in his own Mind, and would not admit of any other Judgment, or Judge, to be near him, for to reprove or condemn him for the Evil of his Wayes; <hi>but would go on without Controle, paſſing away his Precious Time in daily ſinning againſt the Lord, taking no notice of any Reproof or Call from the Lord to forſake the Evil of his Wayes:</hi> And the long continuance in this ſtate hath prov'd very Dangerous, that many are got into a Belief, <hi>That it will not be otherwiſe with them;</hi> nor can they believe, <hi>That it is otherwiſe with any.</hi>
+            </p>
+            <p>Which Concluſion ariſeth from the Counſel of their own dark Hearts, Darkneſs being as a Vail over the Heart, the Eye of the
+<pb n="9" facs="tcp:44015:5"/>Underſtanding being blinded by the God of this World; O! how ſad and lamentable is the Caſe of all ſuch! They would not that Chriſt ſhould have any place in Heir hearts, or they come into Obedience unto him; but are like to the Unbelieving <hi>Jews,</hi> who ſaid, <hi>We will not have this Man to Rule over us;</hi> and at laſt did chuſe a <hi>Barrahas,</hi> rather then a <hi>Jeſus;</hi> and this is the ſtate of many now call'd <hi>Chriſtians, who chooſe rather to have their Murdering Luſts, to live in them, then Chriſt Jeſus the Saviour; and following the ſpirit of Perſecution, and Sin-pleaſing Doctrine for Term of Life, [rather] then the meek and ſelf-denying Jeſus, his Spiritual Appearance in the Heart, in their Self-denyal, and taking up the daily Croſs, which ſeems to them unpoſſible to be done;</hi> chooſing rather, <hi>to pleaſe themſelves and others with a Talk thereof:</hi> and if that would ſerve, Chriſt would have a great many that would follow him, the Way being broad, giving what Liberty to the Fleſh it deſires, to the fulfilling of the Luſts of it. <hi>[But] the Way is Narrow that leads to Life, and admits of nothing that is of Self, or Fleſh, or any thing that tendeth to ſuch Li<g ref="char:EOLhyphen"/>berty; but of a Birth born of the Spirit, who delights in Holineſs, and cannot live in Sin, who runs with Chearfulneſs, deſpiſing the Shame becauſe of the Glory that is ſet before it, Chriſt Jeſus being the Mark of its high calling, believing God, that its Covenant is order'd aright unto it, and ſure;</hi> though it meet with many Enemies, Tryals and Hardſhips by the way, and Reproaches and Scoffs not a few, [even] from thoſe that are ready to ſay, as the <hi>Jews</hi> did, <hi>We have</hi> Abraham <hi>to our Father:</hi> yet this Birth Immortal, having receiv'd the Bleſſing of the Dew of Heaven, is not diſcouraged; though they that have the Fatneſs of the Earth for their Portion, make more Noiſe and greater Shew in this World, &amp; labour what in them lieth to ſtir up Enemies againſt this Bleſſed Innocent Seed, and to Perſe<g ref="char:EOLhyphen"/>cute all thoſe where its Apperance is. But this is my Teſtimo<g ref="char:EOLhyphen"/>ny concerning it, <hi>They ſhall never prevail, no Weapon formed againſt it ſhall Proſper, their ſtriving againſt it is to no Purpoſe, they only making themſelves Manifeſt what ſpirit they are of:</hi> For the Lord God Om<g ref="char:EOLhyphen"/>nipotent hath raiſed it up in this the Day of his Power, that it may bear witneſs to his Name, through his Faithful Witneſſes; in whoſe Hearts God hath raiſed it up, by his own Mighty Power and Out-ſtretched Arm, after a Long and Dark Night of Apo<g ref="char:EOLhyphen"/>ſtacy, ſince the Apoſtles dayes, which ſoon (after the Apoſtles)
+<pb n="10" facs="tcp:44015:6"/>did creep in; only having the Form without the Power, loſt the Life of Religion, and Motion of the Spirit of Life in the Inward Man, which was to be Guide unto all Spiritual Worſhip and O<g ref="char:EOLhyphen"/>bedience unto God, according to Chriſt's Saying, <hi>The Time co<g ref="char:EOLhyphen"/>meth, and now is, that he that worſhippeth the Father, muſt worſhip him in Spirit and in Truth:</hi> This being loſt by many ſince the Apoſtles dayes, and never known by others, hath been the great Cauſe, Ground and Riſe of the many Sorts and forms of Religion, made in man's Will, and he giving way to his own Self-will, the E<g ref="char:EOLhyphen"/>nemy of his Soul did eaſily prevail with him to be of that Form of Religion which moſt ſuited the Inclinations of his Heart, blinding the Eyes of his Underſtanding, and made him Inſenſi<g ref="char:EOLhyphen"/>ble of the many inward Strivings of the Lord with him; and although Reproved in ſecret, yet not regarded, or at leaſt, not believed it to be the <hi>Grace, Light,</hi> and <hi>Spirit of God:</hi> ſo that the Continuance of the Apoſtacy and Unbelief, that came in by it, were from one Generation to another, out of the Remembrance of the Appearance of the Lord, of his being near to man, or of Jeſus Chriſt Within; they grew into the Subtilty of the Ser<g ref="char:EOLhyphen"/>pent, and having eaten of the forbidden Fruit, got unto him<g ref="char:EOLhyphen"/>ſelf Coverings of his own making; <hi>ſerving only himſelf, and his own Intereſt, that he could turn to be of any Form of Religion to ſave himſelf.</hi> [Thus] Painted <hi>Jezebel</hi> got up, and the Falſe Church did begin to flouriſh, with her <hi>Falſe Teachers, Falſe Doctrines</hi> and <hi>Falſe Worſhips;</hi> Then ſhe held forth a Golden Cup, full of Abo<g ref="char:EOLhyphen"/>minations, unto all Nations, Kindreds, Tongues and People; and they drank of the Wine of her Fornication, and were drunk with it; and then the Falſe Church got up, and Falſe Prophet began to ride upon the Beaſt, and they made War with the true Woman, and the Remnant of her Seed that remain'd upon the Earth; and they prevailed for a time: and the Woman, the true Church, fled into the <hi>Wilderneſs,</hi> where ſhe had a Place prepared her of God, and the Man-Child was caught up to God, and there ſhe remained as a Widow alone, and as a Dove without a Mate, (according as it is written) until the time of her Mourning and Widdowhood ſhould be accompliſh'd: and all this while the <hi>Har<g ref="char:EOLhyphen"/>lot,</hi> the falſe Church, bore Rule both within and without: and all that would not receive the Mark of the <hi>Beaſt</hi> and of <hi>Antichriſt</hi>
+               <pb n="11" facs="tcp:44015:6"/>on their Fore-heads, and on their Right-hand, ſhould be put to Death, or ſhould not be ſuffered to Buy or Sell.</p>
+            <p>Then was ſet up <hi>Outward Force, to Compel all to bow to their Wor<g ref="char:EOLhyphen"/>ſhip;</hi> for the Power and Spirit of the Lord, that was in the <hi>Apoſtles</hi> days, was loſt, that made peoples hearts tender, and gather'd them to God, into his Spiritual Worſhip, and the Form without the Power was ſet in its place, and ſo fell ſhort of the Power and of the Order that was in the Spirit: <hi>Then Humane Learning, Arts and Inventions got in the Powers Place, thinking to ſupply what was wanting, which an Immitation of the true Church, and the Order that was in the Apoſtles dayes could not do.</hi>
+            </p>
+            <p>But finding their ſhortneſs, both in Doctrine and Converſati<g ref="char:EOLhyphen"/>on, that Sin and Evil had Dominion over them, and that (erring from the Spirit) they could not be without ſin; then they ſet it up, as a Foundation Doctrine, <hi>That no man could be without Sin and Corruption on this ſide the Grave;</hi> and this they have deſended as well as they could, by Word and Writing: but where that fell ſhort, they made their Inquiſition, Fire and Faggot, and Strong Priſons, to make it out with the reſt of their Falſe Doctrines and Practices, reſolving their Tryal by <hi>Outward Force and Compulſion.</hi> and if any Eye were in meaſure opened, to ſee beyond any of their Dark Doctrines or Ceremonies, and ſo could not bow unto them, <hi>then were they branded with the Name of Hereticks;</hi> and if they would not put out that little Sight which God had given them, and become as Blind as they were, <hi>then they Perſecuted them, and put them to Death.</hi>
+            </p>
+            <p>This hath been the Practice of the Falſe Church for ſeveral Hundred Years, and Examples thereof were before, and in Queen <hi>Mary's</hi> days, and ſince. But now the Time is come, <hi>That</hi> Babylon <hi>is come up in Remembrance before the Lord, and as ſhe has done unto others, ſo will the Lord do unto her<g ref="char:punc">▪</g> for, Strong is He that is riſen to judge her:</hi> And he hath made an Entrance into her Borders, and is lay<g ref="char:EOLhyphen"/>ing waſte her pleaſant Pictures, and diſcovering her Whoredoms, and drying up the <hi>Tongue</hi> of the <hi>Egyptian-Sea,</hi> ſo that many begin to ſuſpect her, and others do ſee <hi>ſhe is but an Harlot,</hi> not withſtan<g ref="char:EOLhyphen"/>ding her being cover'd with <hi>Scarlet-coloured Robes;</hi> [ſo] ſhe ſhall not deceive the Nations much longer; and as ſhe had a time of Riſing, ſo muſt ſhe have time to Fall; and ſurely the time is at
+<pb n="12" facs="tcp:44015:7"/>hand, and her <hi>Overthrow</hi> is witneſſed in many Hearts; and as it hath been within, ſo muſt it be without. And this hath been the Ground of the many <hi>Teſtimonies</hi> that have been born againſt her in this Day and Generation, wherein the Lord hath appear'd in his Might and Power, beyond what hath been in times paſt, and re<g ref="char:EOLhyphen"/>vealed himſelf unto many by his <hi>Light</hi> and <hi>Spirit,</hi> and hath made known the <hi>Way of Life and Salvation,</hi> as in the Apoſtles days; and the <hi>Man-Child</hi> is come down from God again; and ſhe that fled into the Wilderneſs, and was Childleſs, is now coming out, lean<g ref="char:EOLhyphen"/>ing upon the Breaſts of her Beloved, according as it was written of her, <hi>Rejoyce thou Barren, that didſt not bear, and break forth into Joy, thou Virgin, Daughter of</hi> Jeruſalem; <hi>for more ſhall be the Chil<g ref="char:EOLhyphen"/>dren of the Barren, then of the Married Wife;</hi> and this is the Lord's bringing to paſs, that he may take away her Reproach. For many have brought forth (though a falſe Birth) while ſhe has been bar<g ref="char:EOLhyphen"/>ren; <hi>for none could give her Children but the Lord;</hi> &amp; he is wiping away her Tears, and the Time of her Mourning is coming to an end; and now the <hi>Woman</hi> doth appear, which <hi>John</hi> ſaw in the Spirit, <hi>to be clothed with the Sun, having the Moon under her Feet,</hi> and now is as a <hi>Bride</hi> preparing for her <hi>Husband;</hi> and ſhe is the <hi>true Church,</hi> the <hi>Bride,</hi> the <hi>Lamb's Wife;</hi> to her I bear my Teſtimony, to be known, and in being again; and a Son of this Woman I profeſs my ſelf to be, and of none other, of her <hi>Faith</hi> and <hi>Doctrine,</hi> of her <hi>Life</hi> and <hi>Practice;</hi> who hath no Power upon the Earth to take her part, to defend her Faith and Doctrine; <hi>but the Lord God Almighty and the Lamb is her Defence, Covering and Shield for evermore.</hi>
+            </p>
+            <p>And thus in Faithfulneſs have I wrote theſe few things, as the Lord put them into my heart, for the ſake of thoſe that are inqui<g ref="char:EOLhyphen"/>ring after <hi>Sion,</hi> with their Faces ſet thither ward; that all Stum<g ref="char:EOLhyphen"/>bling-blocks may be removed out of the way of the Simple; and that in Singleneſs of heart every one may cloſe in with that holy Appearance of our Lord Jeſus Chriſt, in the inward of their hearts, by his Light &amp; Spirit; and that none may reſiſt the <hi>Day of their Viſitation,</hi> but haſte out of <hi>Babylon</hi> and <hi>Egypt,</hi> from the <hi>Fleſh-Pots &amp; Garlick,</hi> towards the Land that flows with <hi>Milk</hi> and <hi>Honey,</hi> where there are Vineyards ready planted, and Wells ready dig'd, the free Flowings forth of the Father's Love unto their Souls.</p>
+         </div>
+         <div type="testimony">
+            <pb n="13" facs="tcp:44015:7"/>
+            <head>Something further as a Teſtimony concerning the True Miniſters of Jeſus Chriſt.</head>
+            <p>THat there are True and Faithful Miniſters of Jeſus Chriſt, as were in the dayes of the Apoſtles, in this Day and Ge<g ref="char:EOLhyphen"/>neration, that do I witneſs, and bear Teſtimony unto in the Name of the Lord; who are Miniſters of the Spirit, and have miniſtred the Spirit and Spiritual things unto many; who have not fed themſelves with the Fat, but have fed the Lambs of Chriſt; having the Word of Reconciliation committed to them, and have not been ſlack in dividing it aright; judging that which was for Judgment, [but] tender in Love and Compaſſion towards the Poor and Needy; lending a Hand to the Helpleſs, and tur<g ref="char:EOLhyphen"/>ning many to the Light and Power of God, which aboundeth in themſelves; being as Trumpets in the hands of the Lord, giving a certain Sound, that many have heard and believ'd through their Word.</p>
+            <p>They have not ſought themſelves, but the Glory of God, and the Good of all People; and God hath been with them, and made them ſucceſsful, and to ſee the Travel of their Souls, and be glad: And God hath given them Power to loſe on Earth, and it is loſe<g ref="char:EOLhyphen"/>ned in Heaven; and to bind on Earth, and it is bound in Hea<g ref="char:EOLhyphen"/>ven: And they have Power over Unclean ſpirits, and their Poi<g ref="char:EOLhyphen"/>ſon cannot hurt them: Their Weapons are Spiritual, mighty through God, to the pulling down of the Strong Holds of the Devil; they War not with Fleſh and Blood, but againſt the Spi<g ref="char:EOLhyphen"/>ritual Wickedneſs in the High Places of the Heart; their Sword is the Sword of the Spirit; their Armour is the Armour of Light; their Breaſt-plate is the Breaſt-plate of Faith; and their Hel<g ref="char:EOLhyphen"/>met is that of Salvation; and having put on the whole Armour of God, are furniſhed againſt all the Powers of Darkneſs: They preach not but as they are moved by the Spirit and Power of God, being ordered of him, when to Speak, and when to be Si<g ref="char:EOLhyphen"/>lent: They ſerve not themſelves and their own Bellies, but the
+<pb n="14" facs="tcp:44015:8"/>Lord Jeſus Chriſt, and his Followers; not ſtriving who ſhould be Greateſt, but ſerving one another in Love. Into this Mini<g ref="char:EOLhyphen"/>ſtry was I called of God, in the year 1657. and ever ſince the Lord hath continued me in that Work and Service that he ſet before me, requiring of me no more but <hi>Faithfulneſs in that I had receiv'd;</hi> and through great Tryals, Tribulations and Exerciſes hath he preſerv'd me Faithful unto this day; Glory to God. Peace on Earth, and Good will towards Men, <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript. <hi>SOme may ſay,</hi> There are ſeveral ſorts of Profeſſions, who have Miniſters, and all of them hold forth ſome of theſe Doctrines, or have ſome of theſe Marks, and bring forth ſome of theſe Fruits; doſt thou conclude them all to be Falſe Miniſters?</head>
+            <p>To which may be Anſwered, They that are not againſt us are with us, as Chriſt anſwered thoſe that came to com<g ref="char:EOLhyphen"/>plain of ſome that preached, and walked not with them.</p>
+            <p>But theſe have all appeared againſt the Lord and his People, in this the Day of his Spiritual Appearance, and have joyned together either in Word or Deed, Pub<g ref="char:EOLhyphen"/>lick or Private, as one Man, making up one Great Image; Head, Gold; Breaſts, Silver; Thighs, Braſs; Feet, part Iron, part Clay, to withſtand the Little Stone, cut out of the Mountain without Hands; but it hath and will prevail againſt the Image: And theſe are the Sons of one Woman, differing only in Speech and Complexion, ha<g ref="char:EOLhyphen"/>ving all one and the ſame Nature, as Experience hath ſhewed: For all have Perſecuted, and ſtirred up to Perſe<g ref="char:EOLhyphen"/>cution, and the moſt from thoſe that had the greateſt
+<pb n="15" facs="tcp:44015:8"/>Profeſſion, as largely may appear by the Sufferings of the People of the Lord (called <hi>Quakers</hi>) both in this Nation and elſe-where; ſeveral of them being Impriſoned by the <hi>Prieſts</hi> till Death, and others put to Death in <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> only for the Exerciſe of a Pure Conſcience: Such things the Miniſters of Chriſt never did, neither do; but were and are ſo done unto. Theſe, with ſeveral other Reaſons, makes me conclude them all to be Falſe Mini<g ref="char:EOLhyphen"/>ſters.</p>
+            <closer>
+               <signed>John Aynſloe.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:44015:9"/>
+            <pb facs="tcp:44015:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
